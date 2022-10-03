@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Azhruddinali
 - 👀 I have done BCA from IFTM University Moradabad 
-- 🌱 I’m currently learning Data Analytics from CETPA Infotech Pvt Ltd Noida
+- 🌱 I’m currently doing Data Analytics from CETPA Infotech Pvt Ltd Noida
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me ...
 -.  azhruddinali078@gmail.com
