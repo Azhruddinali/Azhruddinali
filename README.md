@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azhruddinali
-- 👀 I have done BCA from IFTM University Moradabad 
+- 👀 I have done BCA from IFTM University Moradabad and i completed 3 month Data Analytics training from CETPA infotech pvt Ltd Noida
 - 🌱 I’m currently doing Data Analytics from CETPA Infotech Pvt Ltd Noida
 - 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me ...
